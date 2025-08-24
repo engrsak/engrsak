@@ -36,7 +36,7 @@ I am an efficient, confident, self-motivated, and enthusiastic individual with e
 
 ### 🎨 Design & Marketing
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Facebook Ads](https://img.shields.io/badge/facebookads-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-%230075F9.svg?&style=for-the-badge&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/googleads-%230083FF.svg?&style=for-the-badge&logo=googleads&logoColor=white)
 ![SEO](https://img.shields.io/badge/seo-%23000000.svg?&style=for-the-badge&logo=yoast&logoColor=white)
 
