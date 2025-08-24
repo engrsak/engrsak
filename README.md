@@ -29,12 +29,12 @@ I am an efficient, confident, self-motivated, and enthusiastic individual with e
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/angularjs-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)
 
-### 🧪 Testing & Tools
+### 🛠️ Testing & Tools
 ![Katalon Studio](https://img.shields.io/badge/katalon-%231074EA.svg?&style=for-the-badge&logo=katalon&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?&style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### 🧰 Design & Marketing
+### 🎨 Design & Marketing
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Facebook Ads](https://img.shields.io/badge/facebookads-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/googleads-%230083FF.svg?&style=for-the-badge&logo=googleads&logoColor=white)
