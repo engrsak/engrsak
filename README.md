@@ -48,7 +48,7 @@ I am an efficient, confident, self-motivated, and enthusiastic individual with e
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spacy-%23000000.svg?&style=for-the-badge&logo=spacy&logoColor=white)
 
-### 🎮 Game Development
+### 🎮 VR & Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 
